@@ -1,12 +1,13 @@
 # 5 Data Science Projects
 Data science projects for Metis bootcamp
 
-## EDA
+## [EDA](https://github.com/neefasa/data-science-projects/tree/master/eda-nyc-subway-usage)
 
-## Regression
+## [Regression](https://github.com/neefasa/data-science-projects/tree/master/regression-sports-attendance)
 
-## Classification
+## [Classification](https://github.com/neefasa/data-science-projects/tree/master/classification-airline-delays)
 
-## NLP
+## [NLP](https://github.com/neefasa/data-science-projects/tree/master/nlp-99pi-rec)
 
-## More NLP and Unsupervised
+## [More NLP and Unsupervised](https://github.com/neefasa/data-science-projects/tree/master/nlp-clustering-netflix)
+
