@@ -17,7 +17,7 @@ BeautifulSoup | GeoPy | Linear Regression | Regularization |SciKit-Learn
 
 
 
-## [Project focused on classification](https://github.com/neefasa/data-science-projects/tree/master/classification-airline-delays)
+## [Project focused on classification](https://github.com/neefasa/ohare-flight-delays)
 
 Predicted whether a flight departing O'Hare International airport would be delayed
 
