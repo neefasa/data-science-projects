@@ -30,12 +30,3 @@ Random Forest | PostgreSQL | AWS
 Topic modeled transcripts for a podcast called "99 Percent Invisible" and developed a recommender
 
 Non-negative Matrix Factoriztion | Tableau | Flask |MongoDB
-
-
-
-## [Analysis of shows on Netflix](https://github.com/neefasa/data-science-projects/tree/master/nlp-clustering-netflix)
-
-Topic modeled and clustered Netflix shows using show description and developed a recommender
-
-Latent Dirichlet Allocation | K-means clustering | Plot.ly
-
