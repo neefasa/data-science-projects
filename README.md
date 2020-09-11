@@ -1,7 +1,7 @@
 # Data Science Projects
 Here are some of my data science projects.
 
-## [EDA of NYC transit](https://github.com/neefasa/data-science-projects/tree/master/eda-nyc-subway-usage)
+## [EDA of NYC transit](https://https://github.com/neefasa/nyc-subway-usage-eda)
 
 Some exploritory data analysis on NYC transit data
 
