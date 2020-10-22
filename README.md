@@ -1,6 +1,12 @@
 # Data Science Projects
 Here are some of my data science projects.
 
+## [Deploy App that measures text similarity](https://github.com/neefasa/text-similarity)
+
+Created an app to measure the similarity between two text samples
+
+NLP | Flask | Docker | Heroku
+
 ## [EDA of NYC transit](https://github.com/neefasa/nyc-subway-usage-eda)
 
 Some exploritory data analysis on NYC transit data
@@ -13,7 +19,7 @@ Pandas | Matplotlib | Jupyter Notebook
 
 Predicted average attendance for teams of major league sports in North America
 
-BeautifulSoup | GeoPy | Linear Regression | Regularization |SciKit-Learn
+BeautifulSoup | GeoPy | Linear Regression | Regularization | SciKit-Learn
 
 
 
@@ -29,4 +35,4 @@ Random Forest | PostgreSQL | AWS
 
 Topic modeled transcripts for a podcast called "99 Percent Invisible" and developed a recommender
 
-Non-negative Matrix Factoriztion | Tableau | Flask |MongoDB
+Non-negative Matrix Factoriztion | Tableau | Flask | MongoDB
