@@ -9,7 +9,7 @@ NLP | Flask | Docker | Heroku
 
 ## [EDA of NYC transit](https://github.com/neefasa/nyc-subway-usage-eda)
 
-Some exploritory data analysis on NYC transit data
+Some exploratory data analysis on NYC transit data
 
 Pandas | Matplotlib | Jupyter Notebook
 
@@ -25,7 +25,7 @@ BeautifulSoup | GeoPy | Linear Regression | Regularization | SciKit-Learn
 
 ## [Predicting delayed flight departures](https://github.com/neefasa/ohare-flight-delays)
 
-Predicted whether a flight departing O'Hare International airport would be delayed
+Predicted whether a flight departing O'Hare International Airport would be delayed
 
 Random Forest | PostgreSQL | AWS 
 
